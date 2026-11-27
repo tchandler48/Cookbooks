@@ -17,6 +17,8 @@ Listed below are the current entries:
 	Cookbook_NOS_2_8_7.pdf          NOS 2.8.7
 	Cookbook_VM_ESA.pdf             VM_ESA 2.4
 	Cookbook_VM370.pdf              VM370 Sixpack 1.2
+	Cookbook_CMSVMEX.pdf            VM370/CMS Spreadsheet
+
 
 
 
